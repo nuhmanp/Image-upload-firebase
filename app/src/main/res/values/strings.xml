@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Add New Event</string>
+    <string name="camera_button_text">ADD NEW EVENT</string>
+    <string name="sign_in_prompt">Sign In to begin</string>
+    <string name="take_photo_prompt">ADD A NEW EVENT</string>
+    <string name="download">SAVE</string>
+    <string name="sign_in_anonymously">Sign In</string>
+    <string name="rationale_storage">This sample reads images from your camera to demonstrate uploading.</string>
+    <string name="label_link">Link to Uploaded File</string>
+    <string name="label_download">Download File</string>
+    <string name="log_out">Log out</string>
+    <string name="success">Success</string>
+</resources>
